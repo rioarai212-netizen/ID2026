@@ -1,1 +1,17 @@
-# ID2026
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>HTMLの基礎</title>
+   </head>
+   <body>
+      <h1>見出し１</h1>
+      <h2>見出し２</h2>
+      <h3>見出し３</h3>
+      <h4>見出し４</h4>
+      <h5>見出し５</h5>
+      <h6>見出し６</h6>
+      <p>段落</p>
+   </body>
+</html>
+      

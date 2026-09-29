@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>STAND UP</title>
+   </head>
+   <body>
+      <h1>Rio1</h1>
+      <h2>Rio2</h2>
+      <h3>Rio3</h3>
+      <h4>Rio4</h4>
+      <h5>Rio5</h5>
+      <h6>RIO6</h6>
+      <p>Q</p>
+   </body>
+</html>
+    
